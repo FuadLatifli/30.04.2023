@@ -1,0 +1,12 @@
+#fruitList {
+    display: none;
+  }
+  
+
+  .even {
+    background-color: orange;
+  }
+  .odd {
+    background-color: green;
+  }
+  
